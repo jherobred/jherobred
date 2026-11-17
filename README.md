@@ -10,10 +10,10 @@
 > Data science and AI program by the Matsuo-Iwasawa Lab at the University of Tokyo.
 
 **Hackathon Finalist** · AppBuildersPH Hackathon 2026 · Oct 2026
-> Built [LakbAI](https://github.com/jherobred/LakbAI) in 24 hours for the "Local AI" theme, then demoed it live at Cyberzone, SM Makati.
+> Built [LakbAI](https://github.com/jherobred/LakbAI) in 24 hours for the "Local AI" theme.
 
 **Tech / Operations Committee Staff** · AWSB-UST and CNAG-CICS · Oct 2025 to present
-> Technical Committee at AWSB-UST. Operations, now Event Operations, Committee at CNAG-CICS.
+> Technicals Committee at AWSB-UST. Operations (now Event Operations) Committee at CNAG-CICS.
 
 **Audit & Logistics / Logistics Committee Staff** · SITE and UST Technovation Society · Sep 2026 to present
 > Audit & Logistics Committee at SITE. Logistics Committee at UST Technovation Society.
