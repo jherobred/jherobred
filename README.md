@@ -1,18 +1,25 @@
 <img src="assets/hero.svg" alt="Jhems Reduta. Builds apps nobody asked for and ships them anyway." width="100%">
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhemsreduta/"><img src="https://img.shields.io/badge/LinkedIn-jhemsreduta-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMyAwLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn: jhemsreduta"></a>
+</p>
+
 ### 💼 Experience
 
-**Founder, CEO, CTO and Sole Intern** · jherobred Labs · 2026 to present
-> Spearheaded the end-to-end delivery of 8 open-source products with a team of 1. Achieved 100% board approval on every decision (board size: 1). Reduced meeting overhead to zero by never scheduling any.
+**Data Science & AI Trainee** · GCI World 2026, Matsuo-Iwasawa Lab, U-Tokyo · Sep 2026 to present
+> Data science and AI program by the Matsuo-Iwasawa Lab at the University of Tokyo.
 
-**Chief Thock Officer** · [TubbyKeys](https://github.com/jherobred/TubbyKeys)
-> Brought mechanical keyboard sounds to every Windows laptop, whether the people nearby wanted them or not.
+**Hackathon Finalist** · AppBuildersPH Hackathon 2026 · Oct 2026
+> Built [LakbAI](https://github.com/jherobred/LakbAI) in 24 hours for the "Local AI" theme, then demoed it live at Cyberzone, SM Makati.
 
-**Head of Offline Intelligence** · [LakbAI](https://github.com/jherobred/LakbAI)
-> Put a language model on a phone so OFWs can check their contracts without a signal. Built during a hackathon on very little sleep.
+**Tech / Operations Committee Staff** · AWSB-UST and CNAG-CICS · Oct 2025 to present
+> Technical Committee at AWSB-UST. Operations, now Event Operations, Committee at CNAG-CICS.
 
-**Student** · University of Santo Tomas
-> Learning data structures by day, shipping side projects by night, sleeping during neither.
+**Audit & Logistics / Logistics Committee Staff** · SITE and UST Technovation Society · Sep 2026 to present
+> Audit & Logistics Committee at SITE. Logistics Committee at UST Technovation Society.
+
+**Student Intern** · Creotec Philippines Inc. · Jan to Feb 2025 (Grade 12)
+> Head programmer for an end-to-end HR and payroll system. Also handled QA testing.
 
 <img src="assets/now.svg" alt="Currently learning UE5 C++, Rust, on-device LLMs and DSA. Likes tiny Tauri apps, Material 3 and thocky keyboards." width="100%">
 
