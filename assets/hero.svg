@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" aria-label="Jhems Reduta. Builds apps nobody asked for and ships them anyway.">
+  <defs>
+    <linearGradient id="name" x1="0" x2="1">
+      <stop offset="0" stop-color="#7cf5c8"/>
+      <stop offset=".5" stop-color="#8ab4ff"/>
+      <stop offset="1" stop-color="#d79bff"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <style>
+      text{font-family:ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}
+      .b1{animation:d1 14s ease-in-out infinite alternate}
+      .b2{animation:d2 18s ease-in-out infinite alternate}
+      .b3{animation:d3 16s ease-in-out infinite alternate}
+      @keyframes d1{to{transform:translate(180px,60px)}}
+      @keyframes d2{to{transform:translate(-220px,-40px)}}
+      @keyframes d3{to{transform:translate(120px,-80px)}}
+      .up{opacity:0;animation:up .9s cubic-bezier(.2,.8,.2,1) forwards}
+      .d2{animation-delay:.25s}.d3{animation-delay:.5s}
+      @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+      .role{opacity:0;animation:role 12s infinite}
+      .r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}
+      @keyframes role{0%{opacity:0;transform:translateY(10px)}4%,21%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+      .orbit{transform-box:view-box;transform-origin:960px 170px;animation:spin 30s linear infinite}
+      .orbit2{transform-box:view-box;transform-origin:960px 170px;animation:spin 20s linear infinite reverse}
+      .orbit text,.orbit2 text{font-size:22px;fill:#c9d1d9}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}
+      @keyframes pulse{50%{transform:scale(1.12);opacity:.7}}
+      .dot{animation:blink 1.6s ease-in-out infinite}
+      @keyframes blink{50%{opacity:.25}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}.up,.r1{opacity:1}}
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0b0f17"/>
+    <g filter="url(#blur)" opacity=".55">
+      <circle class="b1" cx="180" cy="80" r="140" fill="#1f8f6a"/>
+      <circle class="b2" cx="900" cy="260" r="170" fill="#3557c9"/>
+      <circle class="b3" cx="560" cy="300" r="120" fill="#7a3fb5"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <g class="up"><text class="mono" x="70" y="104" font-size="20" fill="#7cf5c8">~/jherobred $ whoami</text></g>
+    <g class="up d2"><text x="66" y="176" font-size="64" font-weight="800" fill="url(#name)" letter-spacing="-1">Jhems Reduta</text></g>
+    <g class="up d3">
+      <text x="70" y="222" font-size="22" fill="#8b949e">IT student · solo app builder · professional side-quester</text>
+    </g>
+    <g font-size="24" font-weight="600" fill="#e6edf3">
+      <text class="role r1" x="70" y="276">▸ Shipped 8 open-source apps nobody asked for</text>
+      <text class="role r2" x="70" y="276">▸ Rust + Tauri on desktop, Kotlin + Compose on Android</text>
+      <text class="role r3" x="70" y="276">▸ Running LLMs on phones, offline, for fun</text>
+      <text class="role r4" x="70" y="276">▸ Currently building a zombie game in Unreal Engine 5</text>
+    </g>
+    <g class="up d3"><circle class="dot" cx="76" cy="306" r="5" fill="#3fb950"/>
+      <text class="mono" x="90" y="311" font-size="15" fill="#8b949e">open to collabs · Philippines</text></g>
+
+    <circle cx="960" cy="170" r="118" fill="none" stroke="#8ab4ff" stroke-opacity=".18" stroke-dasharray="4 8"/>
+    <circle cx="960" cy="170" r="70" fill="none" stroke="#7cf5c8" stroke-opacity=".18"/>
+    <g class="pulse"><circle cx="960" cy="170" r="34" fill="url(#name)" opacity=".9"/></g>
+    <text class="mono" x="960" y="178" font-size="22" font-weight="700" fill="#0b0f17" text-anchor="middle">JR</text>
+    <g class="orbit mono">
+      <text x="1078" y="177" text-anchor="middle">&lt;/&gt;</text>
+      <text x="842" y="177" text-anchor="middle">λ</text>
+      <text x="960" y="59" text-anchor="middle">{ }</text>
+      <text x="960" y="295" text-anchor="middle">⚙</text>
+    </g>
+    <g class="orbit2">
+      <circle cx="1030" cy="170" r="6" fill="#7cf5c8"/>
+      <circle cx="890" cy="170" r="4" fill="#d79bff"/>
+    </g>
+  </g>
+</svg>

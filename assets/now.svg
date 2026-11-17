@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="100%" role="img" aria-label="Terminal: currently learning Unreal Engine 5 C++, Rust, on-device LLMs and data structures. Likes tiny Tauri apps, Material 3 and thocky keyboards.">
+  <defs>
+    <style>
+      text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace;font-size:17px}
+      .p{fill:#7cf5c8}.c{fill:#e6edf3}.o{fill:#8b949e}.k{fill:#d79bff}.y{fill:#ffd479}
+      .t{clip-path:inset(0 100% 0 0);animation:type 1.1s steps(40,end) forwards}
+      .s{opacity:0;animation:show .2s forwards}
+      @keyframes type{to{clip-path:inset(0 0 0 0)}}
+      @keyframes show{to{opacity:1}}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      @media (prefers-reduced-motion:reduce){.t,.s{animation:none;clip-path:none;opacity:1}.cur{animation:none}}
+    </style>
+  </defs>
+  <rect width="900" height="360" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect width="900" height="40" rx="16" fill="#161b22"/>
+  <rect y="24" width="900" height="16" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f57"/><circle cx="46" cy="20" r="6" fill="#febc2e"/><circle cx="66" cy="20" r="6" fill="#28c840"/>
+  <text x="450" y="25" text-anchor="middle" class="o" style="font-size:13px">jhems@dev: ~</text>
+
+  <text x="28" y="80" class="t" style="animation-delay:.3s"><tspan class="p">$</tspan><tspan class="c"> cat currently_learning.txt</tspan></text>
+  <g class="s" style="animation-delay:1.5s">
+    <text x="28" y="108" class="o">→ <tspan class="y">Unreal Engine 5 C++</tspan>   making zombies walk through Metro Manila</text>
+    <text x="28" y="134" class="o">→ <tspan class="y">Rust</tspan>                  the borrow checker and I are in talks</text>
+    <text x="28" y="160" class="o">→ <tspan class="y">On-device LLMs</tspan>        Qwen3 / Gemma on a phone, no internet</text>
+    <text x="28" y="186" class="o">→ <tspan class="y">DSA + networking</tspan>      trees, VLSM, the usual uni grind</text>
+  </g>
+
+  <text x="28" y="230" class="t" style="animation-delay:2.3s"><tspan class="p">$</tspan><tspan class="c"> cat things_i_like.txt</tspan></text>
+  <g class="s" style="animation-delay:3.5s">
+    <text x="28" y="258" class="o">→ <tspan class="k">Tauri apps under 10 MB</tspan>, Material 3, keyboards that go thock</text>
+    <text x="28" y="284" class="o">→ apps that work offline and don't ask for an account</text>
+  </g>
+
+  <text x="28" y="328" class="t" style="animation-delay:4.3s"><tspan class="p">$</tspan><tspan class="c"> git commit -m "one more side project"</tspan></text>
+  <g class="s" style="animation-delay:5.5s"><rect class="cur" x="446" y="314" width="10" height="18" fill="#7cf5c8"/></g>
+</svg>
